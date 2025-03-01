@@ -43,14 +43,12 @@
     <h2> Projeye Ait Resimler</h2>
     <img src="/ProjectScreenShots/localhost_44355_Default_Index.png" />
     <br/>
-    <img src="/ProjectScreenShots/Ekran görüntüsü 2025-03-01 192340.png" />
+    <img src="/ProjectScreenShots/Ekran görüntüsü 2025-03-01 214215.png" />
     <br/>
-    <img src="/ProjectScreenShots/Ekran görüntüsü 2025-03-01 192405.png" />
+    <img src="/ProjectScreenShots/Ekran görüntüsü 2025-03-01 214221.png" />
     <br/>
-    <img src="/ProjectScreenShots/Ekran görüntüsü 2025-03-01 192416.png" />
+    <img src="/ProjectScreenShots/Ekran görüntüsü 2025-03-01 214230.png" />
     <br/>
-    <img src="/ProjectScreenShots/Ekran görüntüsü 2025-03-01 192426.png" />
-    <br/>
-    <img src="/ProjectScreenShots/Ekran görüntüsü 2025-03-01 192436.png" />
+    <img src="/ProjectScreenShots/Ekran görüntüsü 2025-03-01 214235.png" />
   </div>
 </div>
